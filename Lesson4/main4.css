@@ -1,0 +1,134 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.bgrd1{
+    background: #0270ff;
+}
+.bgrd2{
+    background: #1f69b6;
+    width: 106px;
+    height: 120px;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.font{
+    font-size: 20px;
+    color: white;
+}
+.font2{
+    font-size: 15px;
+    color: white;
+}
+.size1{
+    width: 350px;
+    height: 500px;
+    background: silver;
+    margin-top: 5px;
+}
+.size2{
+    width: 340px;
+    height: 120px;
+    margin-top: 5px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.www{
+    background: red;
+    height: 100px;
+}
+.size3{
+    width: 340px;
+    height: 240px;
+    margin-top: 5px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-top: 5px;
+    flex-wrap: wrap;
+}
+
+
+
+.bord{
+    border: 1px solid black;
+}
+.size4{
+    height: 100px;
+    width: 338px;
+    background: #bbec58;
+    margin-top: 5px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.size5{
+    height: 272px;
+    width: 100px;
+    background: #f89ef4;
+}
+.size6{
+    width: 220px;
+    height: 130px;
+    background: aqua;
+}
+.c{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.size7{
+    width: 160px;
+    height: 238px;
+    background: #0270ff;
+}
+.size8{
+    width: 500px;
+    height: 350px;
+    border: 2px solid grey;
+    background: #e8e2e2;
+    margin-top: 5px;
+    border-radius: 5px;
+}
+.size9{
+    width: 485;
+    height: 110px;
+    margin-top: 5px;
+    margin-right: 5px;
+    margin-left: 5px;
+    background: #a9b4b2;
+}
+.size10{
+    height: 103px;
+    width: 103px;
+    background: #a9b4b2;
+}
+.size11{
+    width: 320px;
+    display: flex;
+    row-gap: 10px;
+    column-gap: 5px;
+}
+.size12{
+    width: 160px;
+    height: 215px;
+    background: #a9b4b2;
+    margin-top: 6px;
+}
+.size13{
+    width:323px;
+    height: 100px;
+    background: #a9b4b2;
+    margin-top: 6px;
+    margin-bottom: 6px;
+}
